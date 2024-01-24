@@ -3,9 +3,10 @@ Hi 👋 My name is Seiya Tajima
 
 I'm also a lifelong learner, and I'm always looking for new ways to gain new knowledge and improve my skills. I believe that collaboration and teamwork are the keys to success, and I'm always looking for new opportunities to work with others and share my knowledge. 
 
-* ✉️  You can contact me at [whitexcharge@gmail.com](mailto:whitexcharge@gmail.com)
+* ✉️  You can contact me at [SeiyaTJ@gmail.com](mailto:SeiyaTJ@gmail.com)
+* ✉️  Secondary email [whitexcharge@gmail.com](mailto:whitexcharge@gmail.com)
 * 🏫  KMUTT. Bachelor in Computer Engineering
-* 🧠  I'm currently interesting in blockchain, AI, ML or any software development 
+* 🧠  I'm currently interesting in AI, ML or any software development 
 
 ### Skills
 
@@ -42,6 +43,13 @@ I'm also a lifelong learner, and I'm always looking for new ways to gain new kno
 
 
 ### My GitHub Stats
+
+<a href="http://www.github.com/SeiyaTJ"><img src="https://github-readme-stats.vercel.app/api?username=WhiTeXCharGe&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="WhiTeXCharGe's GitHub stats" /></a>
+
+<a href="http://www.github.com/SeiyaTJ"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=WhiTeXCharGe&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+### My Previous Github
 
 <a href="http://www.github.com/WhiTeXCharGe"><img src="https://github-readme-stats.vercel.app/api?username=WhiTeXCharGe&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="WhiTeXCharGe's GitHub stats" /></a>
 
